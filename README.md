@@ -1,2 +1,2 @@
 # github-demo
-Simple deo repo
+Simple demo repo for git
